@@ -6,7 +6,7 @@ static const Block blocks[] = {
         //{"",    "dwmMailbox",       60,      3},
         {"",    "dwmDisk",          60,      4},
         {"",    "dwmClock",         60,      5},
-        {"",    "dwmWeather",     3600,      6},
+        //{"",    "dwmWeather",     3600,      6},
         {"",    "dwmVol",            0,      7},
         {"",    "dwmBattery",       60,      8},
         {"",    "dwmUpdate",         0,      9},
