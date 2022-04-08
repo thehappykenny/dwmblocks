@@ -2,7 +2,7 @@
 static const Block blocks[] = {
         /*Icon*/    /*Command*/     /*Update Interval*/     /*Update Signal*/
         //{"",    "dwmMusic",          0,      1},
-        {"",    "dwmNet",            1,      2},
+        //{"",    "dwmNet",            1,      2},
         //{"",    "dwmMailbox",       60,      3},
         {"",    "dwmDisk",          60,      4},
         {"",    "dwmClock",         60,      5},
