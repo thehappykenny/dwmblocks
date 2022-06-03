@@ -11,6 +11,7 @@ static const Block blocks[] = {
         { "", "dwmBattery", 60, 8 },
         { "", "dwmVol", 0, 7 },
         { "", "dwmUpdate", 0, 9 },
+        { "", "dwmInternet", 60, 12 },
         { "", "dwmMoon", 3600, 10 },
 };
 
